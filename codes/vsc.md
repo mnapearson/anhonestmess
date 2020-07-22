@@ -1,3 +1,9 @@
 # Visual Studio Code
 
-[Codes](/codes/)
+## Keyboard Shortcuts
+
+|                        |                   |
+| ---------------------- | ----------------- |
+| `cmd P`                | Go to File        |
+| `cmd W`                | Close Window      |
+| `option down/up arrow` | Move line down/up |

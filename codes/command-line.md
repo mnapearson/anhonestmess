@@ -1,7 +1,5 @@
 # Command Line
 
-[Codes](/codes/)
-
 ## Filepaths
 
 |                 |                                                               |
