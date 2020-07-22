@@ -2,6 +2,6 @@
 
 [Home](/)
 
-[Command Line](/codes/command-line)
-
 [VSC](/codes/vsc)
+
+[Command Line](/codes/command-line)
