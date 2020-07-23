@@ -1,5 +1,3 @@
-- [Home](/)
-- [Codes](/codes/)
-- [VSC](/codes/vsc)
-- [Command Line](/codes/command-line)
-- [Git](/codes/git)
+- [About Me](/aboutme/README.md)
+- [Code Camp](/codes/)
+- [Contact](/contact/README.md)

@@ -1,6 +1,6 @@
-# Codes
+## Code Camp
 
-[Home](/)
+### Cheat Sheets
 
 [VSC](/codes/vsc)
 
