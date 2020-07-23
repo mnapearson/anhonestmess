@@ -1,7 +1,7 @@
 ## Get in Touch
 
-Instagram
+[Instagram](https://www.instagram.com/mnapearson/)
 
-Facebook
+[Facebook](https://www.facebook.com/profile.php?id=100005800935787)
 
-Email
+[Email](gmail.com)
